@@ -6,3 +6,4 @@ for i in range(100):
     print i ** 3
 
 print "test"
+print "test2""
